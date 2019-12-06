@@ -1,0 +1,6 @@
+D:\Homework C#\Inheritance\InhertitanceTask3\bin\Debug\InhertitanceTask3.exe.config
+D:\Homework C#\Inheritance\InhertitanceTask3\obj\Debug\InhertitanceTask3.csprojResolveAssemblyReference.cache
+D:\Homework C#\Inheritance\InhertitanceTask3\bin\Debug\InhertitanceTask3.exe
+D:\Homework C#\Inheritance\InhertitanceTask3\bin\Debug\InhertitanceTask3.pdb
+D:\Homework C#\Inheritance\InhertitanceTask3\obj\Debug\InhertitanceTask3.exe
+D:\Homework C#\Inheritance\InhertitanceTask3\obj\Debug\InhertitanceTask3.pdb

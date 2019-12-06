@@ -1,0 +1,11 @@
+D:\Homework C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Homework C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Homework C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Homework C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Homework C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\User\source\repos\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\User\source\repos\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\User\source\repos\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\User\source\repos\Inheritance\Inheritance\Inheritance\obj\Debug\InheritanceTask1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\User\source\repos\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

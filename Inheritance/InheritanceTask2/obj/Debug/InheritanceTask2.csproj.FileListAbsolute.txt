@@ -1,0 +1,6 @@
+D:\Homework C#\Inheritance\InheritanceTask2\bin\Debug\InheritanceTask2.exe.config
+D:\Homework C#\Inheritance\InheritanceTask2\bin\Debug\InheritanceTask2.exe
+D:\Homework C#\Inheritance\InheritanceTask2\bin\Debug\InheritanceTask2.pdb
+D:\Homework C#\Inheritance\InheritanceTask2\obj\Debug\InheritanceTask2.exe
+D:\Homework C#\Inheritance\InheritanceTask2\obj\Debug\InheritanceTask2.pdb
+D:\Homework C#\Inheritance\InheritanceTask2\obj\Debug\InheritanceTask2.csprojResolveAssemblyReference.cache

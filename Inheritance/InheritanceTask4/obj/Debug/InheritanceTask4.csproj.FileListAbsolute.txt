@@ -1,0 +1,6 @@
+D:\Homework C#\Inheritance\InheritanceTask4\bin\Debug\InheritanceTask4.exe.config
+D:\Homework C#\Inheritance\InheritanceTask4\obj\Debug\InheritanceTask4.csprojResolveAssemblyReference.cache
+D:\Homework C#\Inheritance\InheritanceTask4\bin\Debug\InheritanceTask4.exe
+D:\Homework C#\Inheritance\InheritanceTask4\bin\Debug\InheritanceTask4.pdb
+D:\Homework C#\Inheritance\InheritanceTask4\obj\Debug\InheritanceTask4.exe
+D:\Homework C#\Inheritance\InheritanceTask4\obj\Debug\InheritanceTask4.pdb
